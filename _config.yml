@@ -1,0 +1,2 @@
+baseurl: /cymour
+exclude: ['README.md']
